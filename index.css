@@ -7,11 +7,12 @@
 	display:flex;
 	padding:2%;
 }
-.one,.two,.three{
-	border:solid;
-	
-}
+
 
 ul li{
 	list-style-type: none;
+	padding-bottom:2%;
+	border-style:groove;
+	width:30%;
+	display:flex;
 }
