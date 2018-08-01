@@ -1,0 +1,17 @@
+.justify-content-around{
+	margin-top:5%;
+	
+	
+}
+.flex-container{
+	display:flex;
+	padding:2%;
+}
+.one,.two,.three{
+	border:solid;
+	
+}
+
+ul li{
+	list-style-type: none;
+}
